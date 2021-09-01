@@ -18,8 +18,8 @@ function App() {
  return (
    <div>
      <h1>{number}</h1>
-     <button onClick={() => AddOne()}>Add 1</button>
-     <button onClick={() => SubOne()}>Sub 1</button>
+     <button onClick={() => AddOne()}>Add 5</button>
+     <button onClick={() => SubOne()}>Reset</button>
    </div>
  )
 }
