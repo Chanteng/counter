@@ -8,11 +8,11 @@ function App() {
   // const [num, setNum] = useState(0)
 
   function AddOne(){
-   setNumber (number + 1)
+   setNumber (number + 5)
   }
 
   function SubOne() {
-    setNumber ( number - 1)
+    setNumber (0)
   }
 
  return (
